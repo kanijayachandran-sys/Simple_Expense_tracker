@@ -28,7 +28,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>Xpenze</h1>
+      <h1>Xpenzo</h1>
       <center><h2>Expense Tracker</h2></center>
       <ExpenseForm onAdd={addExpense} />
 
