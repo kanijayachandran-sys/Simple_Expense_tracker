@@ -1,7 +1,7 @@
 # Simple Expense Tracker
 
 A **React-based Expense Tracker app** to help you manage your daily expenses efficiently.  
-Add, edit, and delete expenses, and visualize your spending with a clean and modern UI.
+Add,delete expenses and visualize your spending.
 
 ---
 
@@ -23,7 +23,7 @@ Add, edit, and delete expenses, and visualize your spending with a clean and mod
 
 ## **🛠 Tech Stack**
 
-- **Frontend:** React, JSX, CSS
+- **Frontend:** React
 - **Bundler:** Vite
 - **Version Control:** Git & GitHub
 
